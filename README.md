@@ -1,3 +1,11 @@
+
+
+<h4 align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/LuisCarlosRojasTorres)](https://www.linkedin.com/in/luiscarlos-rojastorres-fem/)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
+
+</h4>
 ### Hi there 👋
 
 <!--
