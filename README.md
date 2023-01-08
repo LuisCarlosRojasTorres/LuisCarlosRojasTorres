@@ -6,8 +6,14 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
 
 </h4>
+
 ### Hi there 👋
 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luiscarlosrojastorres&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luiscarlosrojastorres&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luiscarlosrojastorres&theme=default) |
+| :-: | :-: | :-: | 
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luiscarlosrojastorres&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luiscarlosrojastorres&theme=default&utcOffset=8) | 
+| :-: | :-: |
 <!--
 **LuisCarlosRojasTorres/LuisCarlosRojasTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
